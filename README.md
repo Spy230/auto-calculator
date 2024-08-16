@@ -38,3 +38,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
+  git clone https://github.com/Spy230/dz3-mod4/tree/master
