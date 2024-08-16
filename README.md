@@ -9,6 +9,7 @@
 - **Язык программирования**: Java
 - **Платформа**: Android
 - **Среда разработки**: Android Studio
+
 ## Функции
 
 1. **Ввод Стоимости Комплектующих**:
@@ -25,12 +26,13 @@
 
 ## Скриншоты
 
-- **Экран ввода стоимости комплектующих**
-   ![image](https://github.com/user-attachments/assets/2f4dd50d-490a-481d-b60d-5afd22719081)
+### Экран ввода стоимости комплектующих
 
-- **Экран отображения общей стоимости**
-   ![image](https://github.com/user-attachments/assets/cf3bb164-3506-4110-aa36-5590059d6b87)
+![Экран ввода стоимости комплектующих](https://github.com/user-attachments/assets/2f4dd50d-490a-481d-b60d-5afd22719081)
 
+### Экран отображения общей стоимости
+
+![Экран отображения общей стоимости](https://github.com/user-attachments/assets/cf3bb164-3506-4110-aa36-5590059d6b87)
 
 ## Установка и Запуск
 
@@ -38,4 +40,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-  git clone https://github.com/Spy230/dz3-mod4/tree/master
+   git clone https://github.com/Spy230/dz3-mod4/tree/master
